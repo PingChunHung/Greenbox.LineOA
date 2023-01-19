@@ -1,4 +1,4 @@
-﻿using Greenbox.LineOA.Application.Common.Interfaces;
+﻿using Greenbox.LineOA.Application.Common.Interfaces.LineBot;
 using Greenbox.LineOA.Infrastructure.Services.LineBot;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

@@ -1,4 +1,4 @@
-﻿using Greenbox.LineOA.Application.Common.Interfaces;
+﻿using Greenbox.LineOA.Application.Common.Interfaces.LineBot;
 using System;
 using System.Collections.Generic;
 using System.Linq;

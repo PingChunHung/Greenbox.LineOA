@@ -1,4 +1,4 @@
-﻿using Greenbox.LineOA.Application.Common.Interfaces;
+﻿using Greenbox.LineOA.Application.Common.Interfaces.LineBot;
 using Greenbox.LineOA.Application.Webhook.Dtos;
 using Greenbox.LineOA.Domain.Entities.Message;
 using Greenbox.LineOA.Domain.Entities.Message.MessageObject;

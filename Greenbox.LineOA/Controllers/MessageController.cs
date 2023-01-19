@@ -1,4 +1,4 @@
-﻿using Greenbox.LineOA.Application.Common.Interfaces;
+﻿using Greenbox.LineOA.Application.Common.Interfaces.LineBot;
 using Greenbox.LineOA.Infrastructure.Log;
 using Microsoft.AspNetCore.Mvc;
 

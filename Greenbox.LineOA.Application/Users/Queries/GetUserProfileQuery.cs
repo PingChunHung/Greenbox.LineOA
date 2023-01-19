@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Greenbox.LineOA.Application.Common.Interfaces;
+using Greenbox.LineOA.Application.Common.Interfaces.LineBot;
 using MediatR;
 using System;
 using System.Collections.Generic;

@@ -1,6 +1,6 @@
 ﻿using Greenbox.LineOA.Domain.Entities.Users;
 
-namespace Greenbox.LineOA.Application.Common.Interfaces
+namespace Greenbox.LineOA.Application.Common.Interfaces.LineBot
 {
     public interface IUserService
     {
